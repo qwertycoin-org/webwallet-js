@@ -1,3 +1,11 @@
+> [!CAUTION]
+> **ARCHIVED LEGACY WEB WALLET — DO NOT USE WITH QWERTYCOIN V2.**
+> This application is unsupported and incompatible with the current wallet,
+> network, and restricted-RPC architecture. Do not enter a seed or private key
+> and do not receive or send funds with it. Use the current
+> [Web Wallet](https://wallet.qwertycoin.org/) from its
+> [maintained source](https://github.com/qwertycoin-org/wallet.qwertycoin.org).
+
 ![image](https://cdn.qwertycoin.org/images/press/other/qwc-github-3.png)
 #### Master Build Status
 [![Build Status](https://travis-ci.org/qwertycoin-org/webwallet-js.svg?branch=master)](https://travis-ci.org/qwertycoin-org/webwallet-js) [![Build status](https://ci.appveyor.com/api/projects/status/rvsgv9p8wbolxfkt/branch/master?svg=true)](https://ci.appveyor.com/project/Qwertycoin/webwallet-js-iiaw6/branch/master)
